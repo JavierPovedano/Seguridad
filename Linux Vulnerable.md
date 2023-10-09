@@ -9,6 +9,7 @@
 ![image](https://github.com/JavierPovedano/Seguridad/assets/117440210/190cde79-3c47-46d6-bf70-7bd082a6fa75)
 
 -Iniciaremos la herramienta “metasploit framework”
+
  ![image](https://github.com/JavierPovedano/Seguridad/assets/117440210/69871245-d7ca-4a04-8784-f92ce9e4a3fd)
 
 -Después usaremos la herramienta twiki con el comando “use exploit/unix/webapp/twiki_history” en la que tendremos si podemos atacar al puerto que nos interese identificar con el comando “show options”
