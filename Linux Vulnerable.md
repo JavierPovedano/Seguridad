@@ -1,4 +1,4 @@
-<img width="530" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/6e8d4a26-a125-43bb-8bbc-8a9f8cb56b20"># Ejemplo 1
+# Ejemplo 1
 <br>
   Acerca de:
   <br>
