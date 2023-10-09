@@ -1,4 +1,4 @@
-Linux:
+#Linux:
   Acerca de:
     -La máquina virtual Metasploitable es una versión intencionalmente vulnerable de Ubuntu Linux diseñada para probar herramientas de seguridad y demostrar vulnerabilidades comunes.
 
