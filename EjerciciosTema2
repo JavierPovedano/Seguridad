@@ -1,0 +1,175 @@
+# Ej 1
+
+regedit
+Descripción:
+Es el editor del registro de Windows, una herramienta gráfica que le permite ver y supervisar el registro del sistema operativo de Windows y editarlo si es necesario
+
+http de descarga:
+Ya viene con Windows
+
+http de tutorial/manual de uso:
+https://www.softzone.es/windows/como-se-hace/regedit/
+
+
+Cobian Backup
+Descripción:
+Cobian Backup es un programa multitarea que podemos usar para crear y restaurar copias de seguridad de nuestros archivos y directorios
+
+http de descarga:
+https://www.cobiansoft.com/download.php?id=1
+
+http de tutorial/manual de uso:
+https://computerhoy.com/paso-a-paso/software/como-hacer-backup-cobian-backup-3322
+
+Backup4all
+Descripción:
+es un programa de copia de seguridad para Windows que protege tus datos de la pérdida parcial o total. Automatiza el proceso de copia de seguridad, 
+lo que te ahorra tiempo, comprime los datos para ahorrar espacio de almacenamiento y cifra las copias de seguridad para protegerlas del uso no autorizado
+
+http de descarga:
+https://www.backup4all.com/
+
+http de tutorial/manual de uso:
+https://seguridadcallosa2013.blogspot.com/2013/05/tutorial-del-programa-backup4all.html
+
+Amanda Open Source 
+Descripción:
+es una solución de respaldo que permite al administrador de TI configurar un único servidor de respaldo maestro para respaldar múltiples hosts a través de la red
+en unidades de cinta/cambiadores o discos o medios ópticos. Amanda utiliza utilidades y formatos nativos (por ejemplo, dump y/o GNU tar) y puede realizar copias
+de seguridad de una gran cantidad de servidores y estaciones de trabajo que ejecutan múltiples versiones de Linux o Unix.
+
+http de descarga:
+https://www.amanda.org/download.php
+
+http de tutorial/manual de uso:
+https://www.sergio-gonzalez.com/personales/ingenieria_informatica/sistemas_informaticos/documentacion/amanda/amanda.html
+
+Afbackup Open Source 
+Descripción:
+es un sistema de copia de seguridad cliente-servidor que permite a muchas estaciones de trabajo realizar copias de seguridad en un servidor central (simultáneamente o en serie. 
+Se utiliza para mantener archivos en un servidor de respaldo o en un archivo. Los archivos se pueden crear, extraer o enumerar su contenido.
+
+http de descarga:
+https://www.fbackup.com/download.html
+
+http de tutorial/manual de uso:
+https://www.hostinet.com/formacion/backups/como-crear-copias-de-seguridad-con-fbackup/
+
+Burt Open Source 
+Descripción:
+Es un sitema de copias de seguridad de redes creado en la universidad de Wisconsin. Está diseñado para hacer copias de seguridad de grandes redes heterogeneas
+
+http de descarga:
+https://pages.cs.wisc.edu/~jmelski/burt/download.html
+
+http de tutorial/manual de uso:
+https://pages.cs.wisc.edu/~jmelski/burt/docs.html
+
+BRU Comercial
+Descripción:
+La cual proporciona servicios de respaldo y recuperación de datos tipo cliente/servidor a través de  cualquier tamaño de red.
+http de descarga:
+https://www.tolisgroup.com/requestdownloads.html
+
+http de tutorial/manual de uso:
+https://www.tolisgroup.com/assets/argest_backup_user_guide.pdf:
+
+Arkeia Comercial www.arkeia.com
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+Mondo Open Source www.mondorescue.org
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+dump
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+Cron
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+SFINGE y FACES
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+rsync
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+duplicity
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+Symantec Ghost
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+Acronis True Image
+Descripción:
+
+http de descarga:
+
+http de tutorial/manual de uso:
+
+http de ejemplo de aplicación/uso:
+
+
+
+regedit
+Cobian Backup
+Backup4all
+Amanda Open Source www.amanda.es
+Afbackup Open Source http://sourceforge.net/projects/afbackup/
+Burt Open Source http://pages.cs.wisc.edu/~jmelski/burt/
+BRU Comercial www.estinc.com
+Arkeia Comercial www.arkeia.com
+Mondo Open Source www.mondorescue.org
+dump
+Cron
+SFINGE y FACES
+rsync
+duplicity
+Symantec Ghost
+Acronis True Image
