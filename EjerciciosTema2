@@ -74,102 +74,89 @@ https://www.tolisgroup.com/requestdownloads.html
 http de tutorial/manual de uso:
 https://www.tolisgroup.com/assets/argest_backup_user_guide.pdf:
 
-Arkeia Comercial www.arkeia.com
+Arkeia Comercial 
 Descripción:
+Es un software de copia de seguridad y almacenamiento en red network para Windows, Macintosh, Linux, AIX, BSD y HP-UX
 
 http de descarga:
+https://support.wdc.com/arkeia/software.aspx
 
 http de tutorial/manual de uso:
+http://www.linuxfocus.org/Castellano/May2000/article149.shtml
 
-http de ejemplo de aplicación/uso:
-
-Mondo Open Source www.mondorescue.org
+Mondo Open Source 
 Descripción:
+Realiza una copia de seguridad de su servidor o estación de trabajo GNU/Linux en cinta, CD-R, CD-RW, DVD-R[W], DVD+R[W],
+NFS o partición de disco duro. En caso de una pérdida catastrófica de datos, podrá restaurar todos sus datos [o tantos como desee], 
+desde cero si es necesario
 
 http de descarga:
+http://www.mondorescue.org/downloads.shtml
 
 http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
-
-dump
-Descripción:
-
-http de descarga:
-
-http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
+http://www.mondorescue.org/docs.shtml
 
 Cron
 Descripción:
+Es un demonio (que es como se conoce a un proceso en segundo plano) que se ejecuta desde el mismo instante en el que arranca el sistema operativo.
+Cron se encargará de comprobar si existe alguna tarea (job) para ser ejecutada, de acuerdo a la hora configurada en el propio sistema operativo
 
 http de descarga:
+apt install cron
 
 http de tutorial/manual de uso:
+https://www.redeszone.net/tutoriales/servidores/cron-crontab-linux-programar-tareas/
 
-http de ejemplo de aplicación/uso:
-
-SFINGE y FACES
+FACES
 Descripción:
+Es un sistema de reconocimiento facial que te permitirá proteger el acceso a tu usuario de Windows mediante un sistema de reconocimiento facial
 
 http de descarga:
+https://face.softonic.com/?ex=RAMP-1462.1
 
 http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
+https://administracionelectronica.gob.es/PAe/FACE/manualproveedores
 
 rsync
 Descripción:
+Transfiere y sincroniza archivos o directorios de manera eficiente entre una máquina local, un servidor remoto o cualquiera de estos
 
 http de descarga:
+sudo apt install rsync
 
 http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
+https://www.hostinger.es/tutoriales/rsync-linux
 
 duplicity
 Descripción:
+Es un programa de copias de seguridad en red
 
 http de descarga:
+sudo apt install duplicity
 
 http de tutorial/manual de uso:
+https://wiki.archlinux.org/title/Duplicity_(Espa%C3%B1ol)
 
-http de ejemplo de aplicación/uso:
 
 Symantec Ghost
 Descripción:
+Es un programa para la clonación de discos
 
 http de descarga:
+https://norton-ghost.uptodown.com/windows
 
 http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
+https://www.ubackup.com/es/articulos/como-se-usa-norton-ghost.html
 
 Acronis True Image
 Descripción:
+Es un programa que sirve para la clonación de equipos informáticos tanto del disco duro al completo (imágenes de disco) como de una o varias particiones
 
 http de descarga:
+https://www.acronis.com/es-es/products/true-image/
 
 http de tutorial/manual de uso:
-
-http de ejemplo de aplicación/uso:
-
+https://www.ubackup.com/es/clonar/guia-de-clonar-hdd-a-ssd-con-acronis-true-image.html
 
 
-regedit
-Cobian Backup
-Backup4all
-Amanda Open Source www.amanda.es
-Afbackup Open Source http://sourceforge.net/projects/afbackup/
-Burt Open Source http://pages.cs.wisc.edu/~jmelski/burt/
-BRU Comercial www.estinc.com
-Arkeia Comercial www.arkeia.com
-Mondo Open Source www.mondorescue.org
-dump
-Cron
-SFINGE y FACES
-rsync
-duplicity
-Symantec Ghost
-Acronis True Image
+
