@@ -158,5 +158,18 @@ https://www.acronis.com/es-es/products/true-image/
 http de tutorial/manual de uso:
 https://www.ubackup.com/es/clonar/guia-de-clonar-hdd-a-ssd-con-acronis-true-image.html
 
+# Ej3
+
+Instalamos la caracteristica de Copias de Seguridad de Windows Server, para ello tendremos que irnos al Administrador del servidor --> Pulsar en Agregar roles y caraceteristicas -->
+Pulsaremos siguiente hasta llegar al apartado caracteristicas --> Marcaremos Copias de Seguridad de Windows Server --> Pulsaremos en siguiente e Instalaremos 
+
+![image](https://github.com/JavierPovedano/Seguridad/assets/117440210/3abbe7a6-836b-46a4-b3d8-6d96784d0908)
+
+Nos iremos al administrador del servidor --> Herramientas --> Copias de seguridad de windows y no iremso a la pestaña de copias de seguridad local
+
+<img width="641" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/21d31282-6b0c-439c-b6ec-1a94577826fa">
+
+
+
 
 
