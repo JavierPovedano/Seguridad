@@ -202,4 +202,50 @@ Pulsaremos en "Agregar elementos" --> Inidcaremo sobre que directorios queremos 
 
 <img width="610" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/bbe34ac0-f60f-4592-b6c5-058964afee69">
 
+Indicamos que la copia se haga en el propio equipo 
+
+<img width="332" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/d86179e6-c1a1-44d3-9b40-3755e2cda292">
+
+Indicamos donde queremos hacer la copia 
+
+<img width="334" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/c4fa83e6-9a00-4ee8-83fd-7b999365b53d">
+
+Confirmamos que esta bien configurado y pulsamos en "Copia de Seguridad"
+
+<img width="334" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/81d5852c-bd85-40bf-a1b3-41c4167dc9eb">
+
+Ya estaria creada
+
+<img width="335" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/1583c8ef-9629-42d3-8546-5db8d67fa63e">
+
+Para recuperar el estado de la maquina tendremos que darle a "Recuperar" --> Inidcaremos donde esta la copia de seguridad 
+
+<img width="370" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/49b3a808-1e4c-48e2-a2c0-bfd5e5b5d130">
+
+Tendremos que elegir que copia usaremos mediante un sistema de fecha y hora
+
+<img width="368" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/3502e6c4-b304-46fe-9d1b-5f2eab4245c3">
+
+Indicamos el tipo de recuperación, que será "Estado del sistema"
+
+<img width="368" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/5d161c23-f569-404e-8f50-7525f2871693">
+
+Inidacaremos donde queremos que se restaure, que será en "Ubicación Original"
+
+<img width="371" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/25261f97-b3b2-48ef-97dd-35535cc261af">
+
+Pulsaremos en recuperar --> Nos informara de que se reiniciara el equipo al recuperar 
+
+<img width="370" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/9fa1c4fe-3294-4659-a719-98d073626320">
+
+# Ej20
+
+Tendremos que tener tres discos connectados uno para el /boot y los otros dos para hacer el raid
+
+<img width="728" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/5b523ee7-8f72-4f33-9854-675fe0aecf6f">
+
+Iniciaremos la maquina --> La configuaremos a nuestro gusto hasta llegar a esta pantalla en la que tendremos que indicar la opción "Custom Storage layaut"
+
+<img width="402" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/402a5379-4d9b-4739-b508-b63c7a8ba8a1">
+
 
