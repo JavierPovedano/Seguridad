@@ -169,7 +169,37 @@ Nos iremos al administrador del servidor --> Herramientas --> Copias de segurida
 
 <img width="641" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/21d31282-6b0c-439c-b6ec-1a94577826fa">
 
+Nos iremos a "Programar una copia de seguridad" --> Pulsaresmo en siguiente --> Dejaremos la opción seleccionado para que nos cree una copia completa del sistema
 
+<img width="334" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/e7c4d6dd-7625-4a0d-9459-8330884d7512">
 
+Indicaremos que la copia se realize una vez al dia y le indicamos la hora
+
+<img width="513" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/cbfaa4a3-44b6-4d6a-80af-0a6cab90e1cf">
+
+Indicamos el destino de la copia, elegerimos en un disco dedicado a copias de seguridad
+
+<img width="339" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/0ca25b31-dbed-4d7c-bdf4-794a087709d8">
+
+Seleccionaremos nuestro disco pulsando en "Mostrar todos los discos disponibles", seleccionaremos el vasmos a usar y lo marcaremos 
+
+<img width="584" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/25781dad-1de0-43f2-938d-76cf6d9d3df6">
+
+Pulsaremos en finalizar y ya se creara la programación de la copia de seguridad
+
+<img width="337" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/9d2a9e5e-a874-4987-96ed-b51ed37019a9">
+<img width="337" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/19b8a6cb-607f-4778-ba9f-8301a67883e8">
+
+Para crear una copia de seguridad directamente tendremos que pulsar en "Hacer copia de seguridad" --> Indicaremos la opción de "Opciones diferentes" para configurar una copia de seguridad distinta a otra creada 
+
+<img width="338" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/27a5a8b4-e1ab-42de-9fea-9420434a5b37">
+
+Indicaremos la opción personalizada 
+
+<img width="337" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/ba77d2ed-5b1a-4ca8-871e-38b75b6145ab">
+
+Pulsaremos en "Agregar elementos" --> Inidcaremo sobre que directorios queremos hacer la copia
+
+<img width="610" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/bbe34ac0-f60f-4592-b6c5-058964afee69">
 
 
