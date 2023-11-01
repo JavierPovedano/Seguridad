@@ -248,4 +248,21 @@ Iniciaremos la maquina --> La configuaremos a nuestro gusto hasta llegar a esta 
 
 <img width="402" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/402a5379-4d9b-4739-b508-b63c7a8ba8a1">
 
+Nos vamos al disco con menor capacidad y le indimacamos la opción "Usue as boot device"
+
+<img width="400" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/18c13f42-2b41-47dc-a5c9-83d34ba5b7c9">
+
+Pulsamos en la opción "Create software Raid" --> indicamos los dos discos que usaremos y pulsaremos en hecho
+
+<img width="401" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/2b01dda7-c001-4c40-a0de-b395af716191">
+
+Nos aparecera el raid en el que tendremos que crear dos particiones una swap y la raiz
+
+<img width="358" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/f1197cc9-038f-4cb5-9b13-895f6e17af0e">
+
+Pulsamos en "hecho" --> Aceptamos la ventana que nos aparece --> Introducimos el usuario y el servidor que queremos crear --> Pulsamos en "Hecho" en el resto de pantallas
+
+<img width="401" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/890fc0da-1395-4708-97dd-5f5ecfc5145a">
+
+
 
