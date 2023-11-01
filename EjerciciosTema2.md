@@ -264,5 +264,8 @@ Pulsamos en "hecho" --> Aceptamos la ventana que nos aparece --> Introducimos el
 
 <img width="401" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/890fc0da-1395-4708-97dd-5f5ecfc5145a">
 
+Ya lo tendriamos instalado
+
+<img width="400" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/d85273f6-1fdb-4236-9a25-a3bd0411276d">
 
 
