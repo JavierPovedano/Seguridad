@@ -1,4 +1,4 @@
-<img width="587" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/5463d816-1f91-457e-894e-d0dd641eec31">#Ejercicio 1
+#Ejercicio 1
 
 
 #Ejercicio 2
@@ -14,4 +14,15 @@ Windows:
   <img width="587" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/2d20989c-b956-47ed-ba5b-9918723766c5">
 
 Linux:
-  -
+  - Para cambiar la directiva tendremo que instalar un paquete con "sudo apt install libpam-cracklib"
+  - Editamos el fichero "/etc/pam.d/common-password" y añadirmos la linea "password requisite pam_cracklib.so OPCIONES " las opciones pueden ser:
+    -retry: Número de intentos antes de que el sistema devuelva un error.
+    -minlen: Longitud mínima de contraseña.
+    -difok: Cambios de caracteres que debe tener la nueva contraseña en comparación con la vieja.
+    -ucredit: Caracteres en mayúscula que debe tener.
+    -lcredit: Caracteres en minúscula que debe tener.
+    -dcredit: El número de dígitos que debe tener la nueva contraseña.
+    -ocredit: El número de dígitos que debe tener la contraseña. 
+  <img width="405" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/9e930706-8f53-4ade-8559-ac06f369e5e3">
+
+#Ejercicio 3
