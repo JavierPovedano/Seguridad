@@ -26,3 +26,13 @@ Linux:
   <img width="405" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/9e930706-8f53-4ade-8559-ac06f369e5e3">
 
 #Ejercicio 3
+
+#Ejercicio 4
+
+#Ejercicio 5
+
+JOHN
+  -Iniciamos la maquina kali -> Vamos a las aplicaciones -> Password attacks -> john
+  <img width="294" alt="Captura de pantalla 2023-11-27 123017" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/778f92e2-698c-4308-9116-d4a45a689e53">
+
+  - Iniciomos con sudo y ponemos el comando "john /etc/shadow"
