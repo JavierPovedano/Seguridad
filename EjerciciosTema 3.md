@@ -31,8 +31,29 @@ Linux:
 
 #Ejercicio 5
 
-JOHN
   -Iniciamos la maquina kali -> Vamos a las aplicaciones -> Password attacks -> john
   <img width="294" alt="Captura de pantalla 2023-11-27 123017" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/778f92e2-698c-4308-9116-d4a45a689e53">
 
-  - Iniciomos con sudo y ponemos el comando "john /etc/shadow"
+  - Iniciomos con sudo y ponemos el comando "unshadow /etc/passwd /etc/shadow > /home/kali/Desktop/contra.out" y veremos que se a creado el archivo
+    <img width="302" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/c555f1f1-becd-494f-9934-f89d328ef0b1">
+
+  - Ponemos el comando "john --format=crypt contra.out" para sacar los usuarios y contraseñas
+  <img width="467" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/d72b5d57-8ca3-4d7c-af95-3b2841008b7e">
+
+  -Mostraremos el resultado con "john --show contra.out"
+  <img width="197" alt="image" src="https://github.com/JavierPovedano/Seguridad/assets/117440210/9c17c9e4-9c87-44b4-9ed6-650246d28733">
+
+#Ejercicio 6
+Listado:
+  -DEEP FREEZE
+  -REBOOT RESTORE RX
+  -TOOLWIZ TIME FREEZE
+  -SMARTSHIELD
+  -Clean Slate de Fortres Grand
+  -SafeShield de Filestream
+  -Rextore de Crucial Solutions
+  -Shadow Defender de SD
+
+DEEP FREEZE
+-Instalación:
+  
